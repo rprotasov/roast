@@ -7,4 +7,4 @@ before_script:
   - npm install chai
   - npm install gulp-mocha
   - npm install gulp-util
-  - gulp mocha
+  - gulp test

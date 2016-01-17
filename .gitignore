@@ -35,3 +35,5 @@ node_modules
 
 # Node modules for building and testing dependencies
 node_modules
+
+.DS_Store

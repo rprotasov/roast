@@ -1,5 +1,5 @@
-# Roast
+# roast [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/pyroar/coffeehouse.svg?branch=master)
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/pyroar/coffeehouse.svg?branch=master)
+> Acquire coffee and a study spot through graph theory
 
-Using graph theory to find a place to sip some hot, dark coffee and study.
+[Documentation](http://roast.github.io/)

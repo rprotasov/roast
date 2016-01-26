@@ -4,7 +4,7 @@
   "description": "Using graph traversal algorithms to locate a Starbuck's for studying",
   "main": "index.js",
   "directories": {
-    "test": "test",
+    "test": "test"
   },
   "scripts": {
     "test": "gulp test"
@@ -27,7 +27,7 @@
   "dependencies": {
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
-    "chai": "^3.4.2",
+    "chai": "^3.4.1",
     "gulp-mocha": "^2.2.0",
     "gulp-util": "^3.0.7"
   }

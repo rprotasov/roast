@@ -4,7 +4,7 @@
   "description": "Using graph traversal algorithms to locate a Starbuck's for studying",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "test",
   },
   "scripts": {
     "test": "gulp test"
@@ -14,8 +14,9 @@
     "url": "git+https://github.com/pyroar/coffeehouse.git"
   },
   "keywords": [
-    "coffeehouse",
-    "starbucks"
+    "roast",
+    "starbucks",
+    "graph theory"
   ],
   "author": "Richard Protasov",
   "license": "MIT",
@@ -23,7 +24,11 @@
     "url": "https://github.com/pyroar/coffeehouse/issues"
   },
   "homepage": "https://github.com/pyroar/coffeehouse#readme",
-  "devDependencies": {
-    "gulp": "^3.9.0"
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.4",
+    "chai": "^3.4.2",
+    "gulp-mocha": "^2.2.0",
+    "gulp-util": "^3.0.7"
   }
 }

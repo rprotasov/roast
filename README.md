@@ -1,4 +1,4 @@
-# roast [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/pyroar/coffeehouse.svg?branch=master)
+# roast [![Build Status](https://travis-ci.org/rprotasov/roast.svg?branch=master)](https://travis-ci.org/rprotasov/roast)
 
 > Acquire coffee and a study spot through graph theory
 

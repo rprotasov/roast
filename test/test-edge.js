@@ -1,7 +1,7 @@
 const expect = require('chai').expect;
 var DirectedEdge = require('../src/edge');
 
-describe('DirectedEdge', function() {
+describe('DirectedEdge', function () {
   var h = 5;
   var t = 6;
   var w = 7;
